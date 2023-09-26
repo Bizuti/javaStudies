@@ -4,7 +4,7 @@ package Teste;
 
 public class App {
 
-	public static void main(String[] args) {
+	public static void main(final String[] args) {
 		
 		String product1 = "Computer";
 		String product2 = "Office desk";
